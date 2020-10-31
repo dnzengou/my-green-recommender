@@ -5,22 +5,28 @@ This is code for a shiny app for a recommender system based on collaborative fil
 
 ## Run
 
+`pip install voila`
+
+`jupyter notebook`
+
+
 ### climate_change_visu_31102020.ipynb
-voila climate_change_visu_31102020.ipynb --strip_sources=False
+`voila climate_change_visu_31102020.ipynb --strip_sources=False`
 ### or
-voila climate_change_visu_31102020.ipynb
+`voila climate_change_visu_31102020.ipynb`
 
 ![extreme temp countries.png](img/worst-hit-countries.png)
 
 
 ### analysing_global_power_plant_database_wip_update30102020.ipynb
-voila analysing_global_power_plant_database_wip_update30102020.ipynb
+`voila analysing_global_power_plant_database_wip_update30102020.ipynb`
 
 ![capacity](img/capacity-mw.png)
 ![power plant emissions](img/power-plant-emissions.png)
 
 
-### vehicles-visualizations-recommendation-eda.ipynb
+### vehicles-visualizations-recommendation-eda_WIP.ipynb
+`voila vehicles-visualizations-recommendation-eda_WIP.ipynb`
 
 ![car makers](img/make.png)
 
